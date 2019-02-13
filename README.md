@@ -1,7 +1,7 @@
 # Convert_Verilog_to_VHDL
-Icarus Verilog can convert Verilog Code to VHDL Code
+[Icarus Verilog](http://iverilog.icarus.com/) can convert Verilog Code to VHDL Code.
 
-Download http://iverilog.icarus.com/ (Windows) or install Debian Package **iverilog** (Linux) ...
+Download Installer from http://bleyer.org/icarus/ (Windows) or install Debian Package **iverilog** (Linux) ...
 
 ```
 iverilog -iverilog -o my_design.vhd my_design.v
