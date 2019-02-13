@@ -10,3 +10,7 @@ iverilog -iverilog -o my_design.vhd my_design.v
 ```
 
 See: http://iverilog.wikia.com/wiki/Using_VHDL_Code_Generator
+
+---
+
+TODO: Test this withm MKR Vidor 4000 Code ...
