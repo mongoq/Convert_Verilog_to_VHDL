@@ -6,14 +6,14 @@
 Download Installer from http://bleyer.org/icarus/ (Windows) or install Debian Package **iverilog** (Linux) ...
 
 ```
-iverilog -iverilog -o my_design.vhd my_design.v
+iverilog -t vhdl -o my_design.vhd my_design.v
 ```
 
 See: http://iverilog.wikia.com/wiki/Using_VHDL_Code_Generator
 
 ---
 
-TODO: Test this with MKR Vidor 4000 Code ...
+TODO: Test this with [MKR Vidor 4000 Code](https://maker.pro/arduino/tutorial/how-to-program-the-arduino-mkr-vidor-4000s-fpga-with-intel-quartus-ide)
 
 ---
 
