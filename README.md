@@ -13,7 +13,7 @@ See: http://iverilog.wikia.com/wiki/Using_VHDL_Code_Generator
 
 ---
 
-TODO: Test this withm MKR Vidor 4000 Code ...
+TODO: Test this with MKR Vidor 4000 Code ...
 
 ---
 
